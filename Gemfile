@@ -8,6 +8,7 @@ gem 'rails', '~> 6.0.0.rc1'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3', '~> 1.4'
 gem 'pg'
+gem 'sqlite3'
 gem 'frontend-generators'
 gem 'jquery-rails'
 

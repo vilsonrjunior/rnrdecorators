@@ -68,9 +68,12 @@ p {
 .logo {
   display: flex;
   text-align: center;
-  margin-left: 40vh;
-  margin-right: 40vh;
-  margin-bottom: -6vh;
+  margin-top: 5vh;
+  margin-left: 14vh;
+  margin-right: 5vh;
+  margin-bottom: 0vh;
+  max-width: 400px;
+  max-height: 400px;
 }
 
 section {
@@ -217,12 +220,18 @@ header .header-content .header-content-inner hr {
     color: #EDC156;
 }
 
-header .header-content .header-content-inner p {
+header .header-content .header-content-inner h2 {
     margin-bottom: 50px;
-    font-size: 16px;
+    font-size: 32px;
     font-weight: 700;
     color: #19181C;
     text-shadow: white 0px 0px 10px;
+
+header .header-content .header-content-inner img {
+  text-align: center;
+  width: 500px;
+  height: 500px;
+}
 
 }
 
