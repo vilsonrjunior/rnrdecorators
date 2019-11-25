@@ -278,7 +278,11 @@ header .header-content .header-content-inner img {
 
 .service-box {
     margin: 50px auto 0;
-    max-width: 400px;
+    max-width: 500px;
+}
+
+.float-left {
+  float: !important left;
 }
 
 @media(min-width:992px) {
